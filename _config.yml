@@ -1,0 +1,28 @@
+name: foozle
+favicon: null
+layout_spectrum: 0.15244421921670437
+typography_spectrum: 0.6516890556085855
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.33042155019938946
+  lightness: 0.8334161064121872
+  saturation: 0.8933095254469663
+  rhythmicContrast: 0.4171708880458027
+purpose: []
